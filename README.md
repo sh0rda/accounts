@@ -4,5 +4,5 @@
 
 
 Lösenorden och användarnamnen är ej anslutna till en databas eller
-konvertade till hash, då ni får göra det själv. Se länken under!
-**http://www.selamigungor.com/post/7/encrypt-decrypt-a-string-in-csharp**
+konvertade till hash, då ni får göra det själv.
+- **http://www.selamigungor.com/post/7/encrypt-decrypt-a-string-in-csharp**
