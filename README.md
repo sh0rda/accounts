@@ -3,6 +3,6 @@
 - Vet du ej hur du öppnar applikationen bör du ladda hem den.
 
 
-- Lösenorden och användarnamnen är ej anslutna till en databas eller
-- konvertade till hash, då ni får göra det själv. Se länken under!
+Lösenorden och användarnamnen är ej anslutna till en databas eller
+konvertade till hash, då ni får göra det själv. Se länken under!
 **http://www.selamigungor.com/post/7/encrypt-decrypt-a-string-in-csharp**
